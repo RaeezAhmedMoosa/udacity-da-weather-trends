@@ -1,0 +1,9 @@
+############################
+# Excel & PowerPoint files #
+############################
+project-files/*
+
+#########################
+# Test SQL queries file #
+#########################
+test_code.sql
